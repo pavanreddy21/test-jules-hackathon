@@ -1,0 +1,10 @@
+{
+    "servers": {
+        "copilotkit": {
+            "url": "https://mcp.copilotkit.ai"
+        }
+        // "composio_cloud": {
+        //     "url": "https://apollo.composio.dev/v3/mcp/1e84779b-ff11-4e9a-8007-bfa0d3dda540/mcp?include_composio_helper_actions=true"
+        // }
+    }
+}
