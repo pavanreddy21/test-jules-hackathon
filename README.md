@@ -526,3 +526,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 > [!IMPORTANT]
 > Some features are still under active development and may not yet work as expected. If you encounter a problem using this template, please [report an issue](https://github.com/CopilotKit/canvas-with-llamaindex/issues/new/choose) to this repository.
+
+Jules was here.
